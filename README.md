@@ -1,7 +1,7 @@
 # NLP Disaster Tweets
 
 ## Content of the project
-This project (still a WIP!) uses machine learning to predict the Tweets that are about real disasters and the ones that are not. More details can be found in Kaggle's website: https://www.kaggle.com/competitions/titanic
+This project (still a WIP!) uses machine learning to predict the Tweets that are about real disasters and the ones that are not. More details can be found in Kaggle's website: https://www.kaggle.com/competitions/nlp-getting-started
 
 
 ## Instructions
